@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf:features xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adfmf="http://xmlns.oracle.com/adf/mf">
+  <adfmf:feature id="Sucess" name="Sucess">
+    <adfmf:content id="Sucess.1">
+      <adfmf:localHTML url="Sucess/deploymentPG.html"/>
+    </adfmf:content>
+  </adfmf:feature>
+</adfmf:features>
